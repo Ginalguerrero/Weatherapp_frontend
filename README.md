@@ -33,6 +33,9 @@ This web is built for users that likes to travel and checkout the weather outloo
     }
 ```
 ## Demo 
+![Untitled_ Nov 30, 2022 5_21 PM](https://user-images.githubusercontent.com/112473624/204944657-98467c18-0f80-4c76-b27f-908b1f632898.gif)
 
 
 ## Deployed link 
+
+https://ginalguerrero.github.io/Weatherapp_frontend/ 
